@@ -5,9 +5,18 @@ Today’s goal is to **set the foundation for your DevOps journey**.
 
 You will create a **90-day personal DevOps learning plan** that clearly defines:
 - What is your understanding of DevOps and Cloud Engineering?
+Devops is a mindset which helps to handle infrastructure with on premises or over the cloud. Its about creating a reliable and repeatable way of taking an application from development to production while maintaining speed, quality, security, and stability.
+
+Cloud Engineering helps to provide the infrastructure and services required to build and operate those applications at scale.
+
 - Why you are starting learning DevOps & Cloud?
+I started learning devops with a core interest to understand what happens beyond application development and how modern applications are actually deployed, secured, monitored, and maintained in production. I wanted to know the day in and dayout what kind of challenges we face and what are the best measures to solve them.
+
 - Where do you want to reach?
+My ultimate goal would be to get experiences with devops and also involve AI into it automating solutions along with security which is reliable to use in production.
+
 - How you will stay consistent every single day?
+Every single day I will need to practice all that has been taught and always taking astep ahead that that.
 
 This is not a generic plan.  
 This is your **career execution blueprint** for the next 90 days.
