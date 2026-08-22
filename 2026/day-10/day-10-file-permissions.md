@@ -52,6 +52,8 @@ chmod 755 project
 # Verify everything
 ls -ld devops.txt notes.txt script.sh project
 ```
+![alt text](image.png)
+
 
 ## File created 
 - devops.txt — Empty file created using touch
