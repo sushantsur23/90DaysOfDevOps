@@ -1,0 +1,21 @@
+Linux File I/O Practice in terms of proces flow is documneted below :- 
+
+1. Create the file using touch notes.txt
+
+2. Write the first line using > redirection
+
+3. Append the second line using >> redirection
+
+4. Append and display the third line using tee -a
+
+5. Use cat notes.txt to read the complete file
+
+6. Use head -n 2 notes.txt to read the first two lines
+
+7. Use tail -n 2 notes.txt to read the last two lines
+
+8. Verify that the file contains the expected data
+
+9. Modify or append data when required
+
+10. Final flow: Create -> Write -> Append -> Read -> Verify
