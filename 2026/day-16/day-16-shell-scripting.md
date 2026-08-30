@@ -105,18 +105,6 @@ else
 fi
 ```
 
-Example results:
-
-```text
-Input: 10
-Positive
-
-Input: -5
-Negative
-
-Input: 0
-Zero
-```
 
 The script uses `-gt` and `-lt` for integer comparisons.
 
@@ -133,11 +121,6 @@ else
 fi
 ```
 
-Example:
-
-```text
-hello.sh exists.
-```
 
 `-f` checks whether the specified path exists and is a regular file.
 
@@ -164,11 +147,6 @@ else
 fi
 ```
 
-Example run:
-
-```text
-Skipped.
-```
 
 The script uses a variable for the service name, accepts user input, applies an `if/elif/else` decision, and calls `systemctl` to determine the service state.
 
@@ -217,8 +195,6 @@ NAME="Sushant"
 echo "$NAME"
 ```
 
-Do not put spaces around `=`.
-
 ### Input
 
 ```bash
@@ -248,14 +224,14 @@ fi
 ## What I Learned
 
 - The **shebang** determines which interpreter should execute a script when it is launched directly.
-- Bash variables, `echo`, and `read` provide the basic building blocks for passing and displaying data.
-- `if/elif/else` allows scripts to make decisions based on numbers, strings, file existence, command results, or service state.
+- Bash variables, echo, and read provide the basic building blocks for passing and displaying data.
+- if/elif/else allows scripts to make decisions based on numbers, strings, file existence, command results, or service state.
 
 ## DevOps Connection
 
 Shell scripting becomes useful when repetitive Linux operations need to be automated. These fundamentals are the foundation for scripts used in **server checks, deployments, log collection, CI/CD jobs, health checks, and operational troubleshooting**.
 
-**Learning flow:**
+Learning flow could be like as per below:
 
 ```text
 Shebang
